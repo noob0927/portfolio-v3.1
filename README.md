@@ -1,7 +1,7 @@
 # portfolio-v3.1
  third version of a portfolio website
  
- ![image](https://user-images.githubusercontent.com/112575648/197977509-04ad8cc6-c413-4656-a60c-348715429a7a.png)
+![image](https://user-images.githubusercontent.com/112575648/199235749-1acec853-e527-4615-b899-14d2e72df248.png)
 
 ## Technologies Used
 * HTML
